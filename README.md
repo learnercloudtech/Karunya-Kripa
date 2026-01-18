@@ -13,3 +13,5 @@ A Node.js runtime
 A MongoDB instance (local or cloud)
 
 Ollama running locally for AI-powered features
+
+This repository is intended for demonstration and evaluation purposes. Commercial or derivative use requires explicit permission from the authors.
