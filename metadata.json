@@ -1,0 +1,7 @@
+{
+  "name": "Karunya Kripa: Smart Animal Welfare",
+  "description": "A civic-tech web platform for animal welfare, promoting compassion and community action. Citizens can report incidents, request adoptions, volunteer, and donate through a user-friendly, multilingual interface.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
