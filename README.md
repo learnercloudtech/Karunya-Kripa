@@ -1,17 +1,30 @@
-Karunya Kripa is designed to run as a full-stack MERN application(webapp) with locally hosted AI models.
+Karunya Kripa is a full-stack MERN web application designed to support ethical and technology-driven urban animal welfare. The platform uses locally hosted AI models to enable privacy-preserving, intelligent decision support for animal welfare operations.
 
-Backend: Node.js + Express with MongoDB for data storage
+System Overview
+
+Backend: Node.js + Express with MongoDB
 
 Frontend: React-based Progressive Web App (PWA)
 
-AI Services: Locally executed using Ollama (LLaVA and IBM Granite Code models)
+AI Services: Local AI execution via Ollama
 
-The application requires:
+LLaVA (Multimodal Vision-Language Model)
 
-A Node.js runtime
+IBM Granite Code (Text Language Model)
 
-A MongoDB instance (local or cloud)
+Requirements
 
-Ollama running locally for AI-powered features
+Node.js runtime
 
-This repository is intended for demonstration and evaluation purposes. Commercial or derivative use requires explicit permission from the authors.
+MongoDB instance (local or cloud)
+
+Ollama running locally
+
+Usage Notice
+
+This repository is provided for demonstration and evaluation purposes only.
+Commercial use, redistribution, or derivative work requires explicit written permission from the project authors.
+
+License
+
+© 2026 Karunya Kripa. All rights reserved.
